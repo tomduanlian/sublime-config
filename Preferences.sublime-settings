@@ -1,3 +1,25 @@
 {
-	"font_size": 16
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
