@@ -6,15 +6,20 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"AngularJS",
 		"EJS",
 		"Git",
+		"Gulp",
 		"HTML5",
 		"JavaScript Completions",
+		"JSX",
 		"Nodejs",
 		"Package Control",
 		"RailsCasts Colour Scheme",
+		"React ES6 Snippets",
+		"React Templates",
 		"ReactJS",
+		"ReactJS Snippets",
+		"SublimeLinter-jsxhint",
 		"SyncedSideBar"
 	]
 }
